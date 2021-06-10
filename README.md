@@ -4,7 +4,7 @@ Projeto da disciplina Objetos Inteligentes Conectados
 
 Meuriam Assis e Thiago Siqueira Garbuio
 
-O objetivo deste projeto, foi construir um sistema de irrigação automátia utilizando o módulo NodeMCU ESP8266 com o Sensor Higrômetro que mede a umidade do solo, acionando quando necessário uma Mini Bomba de Água através de um Relé que irá alimentar com uma mangueira o solo com água. Tudo foi controlado via protocolo MQTT, podendo acessar uma dashboard.
+O objetivo deste projeto, foi construir um sistema de irrigação automática utilizando o módulo NodeMCU ESP8266 com o Sensor Higrômetro que mede a umidade do solo, acionando quando necessário uma Mini Bomba de Água através de um Relé que irá alimentar com uma mangueira o solo com água. Tudo foi controlado via protocolo MQTT, podendo acessar uma dashboard.
 
 # Componentes
 
