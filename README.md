@@ -20,7 +20,7 @@ O objetivo deste projeto, foi construir um sistema de irrigação automática ut
 
 # Código
 
-Arquivo: CodigoProjetoIrrigacao.ino
+Arquivo: https://github.com/Meuriam/IOT---ProjetoIrriga-o/blob/main/CodigoProjetoIrrigacao.ino
 
 # Comunicação MQTT
 
